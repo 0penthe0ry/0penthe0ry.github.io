@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Open Theory",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "0penthe0ry.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -29,26 +29,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+            light: "#fafafa",         // Pure page/paper background
+            lightgray: "#e5e5e5",     // Borders and graph lines
+            gray: "#737373",          // Subtitles and metadata
+            darkgray: "#171717",      // Main text body (almost pure black)
+            dark: "#0a0a0a",          // Headings and titles
+            secondary: "#2563eb",     // Accent link color (Classic LaTeX blue)
+            tertiary: "#93c5fd",      // Hover highlights
+            highlight: "rgba(37, 99, 235, 0.05)", // Soft background highlights
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+            light: "#0a0a0a",         // Deep blackboard background
+            lightgray: "#262626",     // Dark borders and graph grid
+            gray: "#a3a3a3",          // Muted text
+            darkgray: "#e5e5e5",      // Main crisp text body
+            dark: "#fafafa",          // Bright headings
+            secondary: "#60a5fa",     // Accent link color (Soft neon blue)
+            tertiary: "#bfdbfe",      // Hover highlights
+            highlight: "rgba(96, 165, 250, 0.1)", // Soft highlight overlay
         },
       },
     },
