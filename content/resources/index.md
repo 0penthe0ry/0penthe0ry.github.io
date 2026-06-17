@@ -1,10 +1,8 @@
 ---
-title: Welcome
-alias: resources
-author:
+title: Resources
+authors:
     - joanalnu
 date-created: 2026-06-17
-last-edited: 2026-06-17
 ---
 
 # Getting Started with Open Theory
