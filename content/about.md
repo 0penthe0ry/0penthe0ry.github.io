@@ -1,10 +1,11 @@
 ---
 title: Open Theory (0penthe0ry)
 alias: index
-author: joanalnu
+authors:
+  - joanalnu
 date: 2026-06-17
 ---
 
 Hello World!
 
-Check out the [[homepage|documentation]].
+Check out the [[resources/index|welcome page]].
