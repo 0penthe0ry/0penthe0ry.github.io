@@ -30,7 +30,7 @@ export default ((opts?: Options) => {
     return (
       <footer className={`${displayClass ?? ""}`}>
         <p>
-          © {year} Open Theory Collective. Built with <a href="https://quartz.jzhao.xyz/">Quartz</a>.
+          © {year} Open Theory Group. Built with <a href="https://quartz.jzhao.xyz/">Quartz</a>.
         </p>
         <ul>
           {/* Render our static links first */}
