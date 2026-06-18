@@ -21,15 +21,15 @@ Our work follows a simple cycle. Everything you do should eventually land in the
 
 # 2. Finding things
 
-- [Join the Discord](): This is our "human-collaboration" tool. Use it for sharing [arXiv](https://arxig.org) links, asking for help, sharing interesting insights and joining our Journal Club.
+- [Join the Discord](https://discord.gg/zgdNxqWAsj): This is our "human-collaboration" tool. Use it for sharing [arXiv](https://arxig.org) links, asking for help, sharing interesting insights and joining our Journal Club.
 - [GitHub Organisation](https://github.com/0penthe0ry): This is our "code-collaboration" tool. All code, formal writing ($\LaTeX$ files), data, simulations live here. You can use GitHub Issues to fully develop a derivation or question that emerged from discord.
-- [This documentation site](https://0penthe0ry.github.io): Your primary reference. This place is meant to grow as we progress in our learnings, proving a refernece of how we approach specific derivations and summarizing how we did each proof. You can also find general [[resources]] and the [[journal-club|Journal Club]] notes.
+- [This documentation site](https://0penthe0ry.github.io): Your primary reference. This place is meant to grow as we progress in our learnings, proving a reference of how we approach specific derivations and summarizing how we did each proof. You can also find general [[resources]] and the [[journal-club|Journal Club]] notes.
 
 # 3. How to contribute
 
 If you are new and want to jump in, do these three things:
 
-1. **Introduce yourself:** Hop into the Discord `#cafe` channel and say hello. Let us knwo what physics topics you are currently or interested in exploring.
+1. **Introduce yourself:** Hop into the Discord `#cafe` channel and say hello. Let us know what physics topics you are currently or interested in exploring.
 
 2. **Setup your environment:** If you plan to code or write formal papers, clone our [[Research Templates]] repository. It contains standard $\LaTeX$ and `Python` boilerplate so you don't have to start from scratch.
 
@@ -40,7 +40,7 @@ If you are new and want to jump in, do these three things:
 
 - There are no stupid questions. 
 - Asynchronous first: we are students from different times zones. Don't expect instant replies on Discord; it's preferably to take your time and write a thoughtful reply than rapid-fire chatting.
-- Default to public: everything that we do is open-source. We write code and proofs, so that anyone can learn from them. There is no entry barried for other students.
+- Default to public: everything that we do is open-source. We write code and proofs, so that anyone can learn from them. There is no entry barrier for new students.
 
 # Need help?
 
