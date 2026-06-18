@@ -23,7 +23,7 @@ Our work follows a simple cycle. Everything you do should eventually land in the
 
 - [Join the Discord](https://discord.gg/zgdNxqWAsj): This is our "human-collaboration" tool. Use it for sharing [arXiv](https://arxig.org) links, asking for help, sharing interesting insights and joining our Journal Club.
 - [GitHub Organisation](https://github.com/0penthe0ry): This is our "code-collaboration" tool. All code, formal writing ($\LaTeX$ files), data, simulations live here. You can use GitHub Issues to fully develop a derivation or question that emerged from discord.
-- [This documentation site](https://0penthe0ry.github.io): Your primary reference. This place is meant to grow as we progress in our learnings, proving a reference of how we approach specific derivations and summarizing how we did each proof. You can also find general [[resources]] and the [[journal-club|Journal Club]] notes.
+- [This documentation site](https://0penthe0ry.github.io): Your primary reference. This place is meant to grow as we progress in our learnings, proving a reference of how we approach specific derivations and summarizing how we did each proof. You can also find general [[resources]] and the [[seminar|seminar]] notes.
 
 # 3. How to contribute
 
