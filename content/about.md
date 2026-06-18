@@ -7,7 +7,12 @@ authors:
 
 ## Our Mission
 
-Open Theory (`0penthe0ry`) is an independent, student-led group dedicated to learning and exercising theoretical physics. It's goal is to create a network of students doing and discussing insights and ideas, with no entry barriers.
+Open Theory (`0penthe0ry`) is an independent, student, international group dedicated to learning and exercising theoretical physics. It's goal is to create a network of students doing and discussing insights and ideas.
+
+### What OpenTheory is not
+
+- a student-led club
+- a local organisation
 
 ## Active Focus
 
