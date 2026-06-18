@@ -7,4 +7,4 @@ date: 2026-06-17
 
 Hello World!
 
-Check out the [[homepage|documentation]].
+Check out the [[/resources/index|documentation]].
