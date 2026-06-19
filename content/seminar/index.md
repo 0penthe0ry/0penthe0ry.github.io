@@ -6,7 +6,11 @@ authors:
 
 # About
 
-### Seminar Schedule: Autumn/Winter 2026–2027
+The goal of the seminar is to create a space to go through derivations collectively, present current or past projects or a pape or a paper interesting to the community, or share progress updates, questions and comments.
+
+The seminar runs every 2 weeks at a standard global time regardless of attendance. All sessions are recorded and uploaded as unlisted YouTube videos shortly afterwards.
+
+# Seminar Schedule: Autumn/Winter 2026–2027
 All sessions take place on Saturdays at **15:00 UTC** via Discord (`#the-chalkboard`).
 
 | Session | ISO Week | Calendar Date | Focus / Track | Format |
