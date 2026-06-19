@@ -15,7 +15,7 @@ Our work follows a simple cycle. Everything you do should eventually land in the
 
 | Phase | Where it happens | Goal |
 |---|---|---|
-| Brainstorming| Discord: `#the-blackboard` | Discussing ideas, messy derivations, asking "stupid" questions. |
+| Brainstorming| Discord: `#the-chalkboard` | Discussing ideas, messy derivations, asking "stupid" questions. |
 | Research | GitHub: `0penthe0ry/project` | Running simulations, writing $\LaTeX$, code reviews. |
 | Knowledge Archive | Quartz: `/research` | Finalized derivations, paper summaries, meeting notes, project updates. |
 
@@ -33,7 +33,7 @@ If you are new and want to jump in, do these three things:
 
 2. **Setup your environment:** If you plan to code or write formal papers, clone our [[Research Templates]] repository. It contains standard $\LaTeX$ and `Python` boilerplate so you don't have to start from scratch.
 
-3. **Pick a "Toy Task":** Check in with other students to find a simple task to begin with. You can also check github issues with the tag `good-first-issue`.
+3. **Start with a simple task:** Check in with other students to find a simple task to begin with. You can also check github issues with the tag `good-first-issue`.
 
 
 # 4. Culture & Rules
@@ -44,7 +44,7 @@ If you are new and want to jump in, do these three things:
 
 # Need help?
 
-If you are stuck, don't bang your head against the wall for more than an hour. Post a screenshot of your error or your algebra in the Discord `#the-blackboard` channel. Someone will help you move forward.
+If you are stuck, don't bang your head against the wall for more than an hour. Post a screenshot of your error or your algebra in the Discord `#the-chalkboard` channel. Someone will help you move forward.
 
 If you have any questions or comments about the workflow or orga, drop a message in the `#cafe` discord channel. Someone will help you out.
 
