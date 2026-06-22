@@ -4,25 +4,17 @@ authors:
   - joanalnu
 ---
 
-## Our Mission
+Open Theory (`0penthe0ry`) is a decentralized, online group of undergraduate and high school students dedicated to learning and discussing theoretical physics.
 
-Open Theory (`0penthe0ry`) is an independent and international group of students dedicated to learning and exercising theoretical physics. It's goal is to create a network of students doing and discussing insights and ideas.
+We hold a seminar every two weeks where students can present their science fair projects (past or current), run a journal club for preprints or Astrobites/similar posts, or share insights from physics talks they have attended (or whatever feels interesting to the community).
 
-### What OpenTheory is not
+## What Open Theory is not
+- a university-managed or student-led club
+- a formal organisation
+- an institutional research group
+- a homework assistance platform
 
-- a student-led club
-- a local organisation
+## Quick links
 
-## Active Focus
-
-> [!INFO] Autumn/Winter 2026-2027
-> Seminar Topic focus: [[rationale|Dynamical Dark Energy Stability]]
-
-## Who is this for
-
-Both high school students and undergraduate students are welcome. This is for people wanting to learn and explore. If you don't, you'll learn; if you know, you'll mentor.
-
-## Links
-
-- Expore the [[seminar/about|seminar sessions]] for this semester.
-- Join us  [[how-to-join]]
+- Explore the upcoming [[seminar/about|seminar sessions]]
+- Join us [[how-to-join|here]]
