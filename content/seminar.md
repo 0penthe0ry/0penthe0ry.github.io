@@ -6,9 +6,9 @@ authors:
 
 ## The Seminar
 
-Our primary meeting ground is a bi-weekly semianr/journal club meeting. Session take place every 2 Saturdays at 15:00h UTC.
+Our primary meeting ground is a bi-weekly seminar/journal club meeting. Session take place every 2 Saturdays at 15:00h UTC.
 
-This is an open seminar; there are no attendance or presentation requirements if you join the group. ANyone can drop in to listen and ask questions.
+This is an open seminar; there are no attendance or presentation requirements. Anyone can drop in to listen and ask questions.
 
 Presentations can be:
 - past or current research project presentation (e.g., science fair project, thesis) #project
@@ -36,12 +36,12 @@ Presentations can be:
 
 ## Claiming a slot
 
-If you want to present a seminar, post a message in the `#-seminar-orga` channel on Discord stating your prefered slot and topic or presentation title (potentially abstract). If there are no requests collisions you can have the slot.
+If you want to present a seminar, post a message in the `#-seminar-orga` channel on Discord stating your prefered slot and topic or presentation title (potentially abstract). If there are no requests collisions in a week you can have the slot.
 
-After confirmation you can add you presentation to the schedule by clicking to "Edit Page Source" link at the bottom of this page and updating the table.
+After confirmation you can add your presentation to the schedule by clicking to "Edit Page Source" at the bottom of this page and updating the table.
 
 ## Archive
 
-For each session a page in this website is created with the abstract, links to resources and slides or digital blackboard (if applies), relevant or intersting questions and comments, and presenter contact details.
+For each session a page in this website is created with the abstract, links to resources and slides or digital blackboard (if applies), relevant or interesting questions and comments, and presenter contact details (when available).
 
-All sessions are recorded and uploaded to an unlisted Playlist on YouTube, the link is in the session page.
+All sessions are recorded and uploaded to an unlisted playlist on YouTube, the link is in the session page.
