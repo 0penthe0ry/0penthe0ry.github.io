@@ -16,5 +16,5 @@ We hold a seminar every two weeks where students can present their science fair 
 
 ## Quick links
 
-- Explore the upcoming [[seminar/about|seminar sessions]]
+- Explore the upcoming [[seminar|seminar sessions]]
 - Join us [[how-to-join|here]]
